@@ -2,7 +2,7 @@
 
 ## Introduction
 
-using Visual Stiudo Code helped me complete my first python assignment. i learned how to write, run   and test my code. the explorer, terminal, and syntax highilinghting made progtamming easier for me.
+using Visual Stiudo Code helped me complete my first python assignment. i learned how to write, run and test my code. the explorer, terminal, and syntax highilinghting made progtamming easier for me.
 
 feature1- explorer 
 
